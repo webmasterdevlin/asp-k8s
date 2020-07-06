@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUipCOJ0seMn399mL04NK+O8Xwmeu3YNjGADrgOo47oKenwEcD81k8zQ0GKeTIbSSK9T/Udxql0LtrmyVNXwIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devduldu\\Desktop\\AspK8s\\AspK8s\\AspK8s.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devduldu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
